@@ -1,0 +1,6 @@
+SELECT dt, symbol,
+       ROUND(((close - open)/open) * 100, 2) AS percent_loss
+FROM stockprices
+WHERE open > 0
+ORDER BY percent_loss ASC
+LIMIT 10;

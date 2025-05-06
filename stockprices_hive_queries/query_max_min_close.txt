@@ -1,0 +1,5 @@
+SELECT symbol,
+       MAX(close) AS max_close,
+       MIN(close) AS min_close
+FROM stockprices
+GROUP BY symbol;

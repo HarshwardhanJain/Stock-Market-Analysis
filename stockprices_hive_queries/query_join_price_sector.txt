@@ -1,0 +1,4 @@
+SELECT sp.dt, sp.symbol, sc.sector, sp.open, sp.close, sp.volume
+FROM stockprices sp
+JOIN stockcompanies sc
+ON sp.symbol = sc.ticker_symbol;

@@ -1,0 +1,6 @@
+SELECT sc.sector, ROUND(AVG(sp.close), 2) AS avg_close_price
+FROM stockprices sp
+JOIN stockcompanies sc
+ON sp.symbol = sc.ticker_symbol
+GROUP BY sc.sector
+ORDER BY avg_close_price DESC;

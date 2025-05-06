@@ -1,0 +1,3 @@
+SELECT symbol, ROUND(AVG(close), 2) AS avg_close
+FROM stockprices
+GROUP BY symbol;

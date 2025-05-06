@@ -1,0 +1,11 @@
+WITH ranked_prices AS (
+  SELECT symbol, dt, close,
+         RANK() OVER (PARTITION BY symbol ORDER BY dt ASC) AS rnk_start,
+         RANK() OVER (PARTITION BY symbol ORDER BY dt DESC) AS rnk_end
+  FROM stockprices
+)
+SELECT symbol,
+       MAX(CASE WHEN rnk_start = 1 THEN close END) AS first_close,
+       MAX(CASE WHEN rnk_end = 1 THEN close END) AS last_close
+FROM ranked_prices
+GROUP BY symbol;

@@ -1,0 +1,3 @@
+SELECT dt, symbol,
+       ROUND((high - low), 2) AS price_range
+FROM stockprices;

@@ -1,0 +1,5 @@
+SELECT symbol, SUM(volume) AS total_volume
+FROM stockprices
+GROUP BY symbol
+ORDER BY total_volume DESC
+LIMIT 5;

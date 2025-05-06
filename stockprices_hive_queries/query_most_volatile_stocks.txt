@@ -1,0 +1,6 @@
+SELECT symbol,
+       ROUND(AVG(high - low), 2) AS avg_daily_range
+FROM stockprices
+GROUP BY symbol
+ORDER BY avg_daily_range DESC
+LIMIT 10;
