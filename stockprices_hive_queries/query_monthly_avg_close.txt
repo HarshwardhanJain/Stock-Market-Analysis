@@ -1,3 +1,0 @@
-SELECT SUBSTRING(date, 1, 7) AS month, symbol, ROUND(AVG(close), 2) AS avg_close
-FROM stockprices
-GROUP BY SUBSTRING(date, 1, 7), symbol;

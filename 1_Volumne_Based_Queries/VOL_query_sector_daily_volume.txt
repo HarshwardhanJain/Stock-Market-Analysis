@@ -1,0 +1,6 @@
+SELECT sp.dt, sc.sector, SUM(sp.volume) AS total_volume
+FROM stockprices sp
+JOIN stockcompanies sc
+ON sp.symbol = sc.ticker_symbol
+GROUP BY sp.dt, sc.sector
+ORDER BY sp.dt, total_volume DESC;

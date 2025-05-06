@@ -1,0 +1,4 @@
+SELECT headquarter, COUNT(ticker_symbol) AS stock_count
+FROM stockcompanies
+GROUP BY headquarter
+ORDER BY stock_count DESC;

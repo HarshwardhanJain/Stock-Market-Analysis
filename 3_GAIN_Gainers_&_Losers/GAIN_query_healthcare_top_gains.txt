@@ -1,0 +1,8 @@
+SELECT sp.dt, sp.symbol, sc.security,
+       ROUND(((sp.close - sp.open)/sp.open) * 100, 2) AS percent_gain
+FROM stockprices sp
+JOIN stockcompanies sc ON sp.symbol = sc.ticker_symbol
+WHERE sc.sector = 'Health Care'
+AND sp.open > 0
+ORDER BY percent_gain DESC
+LIMIT 10;

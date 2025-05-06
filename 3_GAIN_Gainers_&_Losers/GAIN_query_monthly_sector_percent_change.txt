@@ -1,0 +1,7 @@
+SELECT SUBSTRING(sp.dt, 1, 7) AS month, sc.sector,
+       ROUND(AVG((sp.close - sp.open) / sp.open) * 100, 2) AS avg_percent_change
+FROM stockprices sp
+JOIN stockcompanies sc ON sp.symbol = sc.ticker_symbol
+WHERE sp.open > 0
+GROUP BY SUBSTRING(sp.dt, 1, 7), sc.sector
+ORDER BY month, avg_percent_change DESC;

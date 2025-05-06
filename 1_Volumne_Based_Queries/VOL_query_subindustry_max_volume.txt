@@ -1,0 +1,6 @@
+SELECT sc.sub_industry, sp.symbol, MAX(sp.volume) AS max_volume
+FROM stockprices sp
+JOIN stockcompanies sc
+ON sp.symbol = sc.ticker_symbol
+GROUP BY sc.sub_industry, sp.symbol
+ORDER BY max_volume DESC;

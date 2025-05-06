@@ -1,0 +1,9 @@
+WITH max_date AS (
+  SELECT symbol, MAX(dt) AS latest_dt
+  FROM stockprices
+  GROUP BY symbol
+)
+SELECT sp.symbol, sc.sector, sc.security, sp.dt, sp.close
+FROM stockprices sp
+JOIN stockcompanies sc ON sp.symbol = sc.ticker_symbol
+JOIN max_date md ON sp.symbol = md.symbol AND sp.dt = md.latest_dt;

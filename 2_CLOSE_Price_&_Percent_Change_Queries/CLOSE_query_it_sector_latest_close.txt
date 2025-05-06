@@ -1,8 +1,8 @@
 WITH latest_date AS (
-  SELECT MAX(date) AS max_date FROM stockprices
+  SELECT MAX(dt) AS max_dt FROM stockprices
 )
-SELECT sp.symbol, sp.close, sc.sector, sp.date
+SELECT sp.symbol, sp.close, sc.sector, sp.dt
 FROM stockprices sp
 JOIN stockcompanies sc ON sp.symbol = sc.ticker_symbol
-JOIN latest_date ld ON sp.date = ld.max_date
+JOIN latest_date ld ON sp.dt = ld.max_dt
 WHERE sc.sector = 'Information Technology';
