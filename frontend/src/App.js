@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const categories = [
   {
-    name: '1_Volumne_Based_Queries',
+    name: '1_Volume_Based_Queries',
     description: 'Analyze trading volumes by sector and subindustry.',
   },
   {
