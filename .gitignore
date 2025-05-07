@@ -1,4 +1,7 @@
 Hadoop_and_Hive_code_explanation.docx
 Stock_Market_Analysis_Report.docx
-backend
-frontend
+
+backend/api/__pycache__
+backend/stocksite/__pycache__
+
+frontend/node_modules
