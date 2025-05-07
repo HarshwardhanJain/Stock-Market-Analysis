@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import axios from 'axios';
 
 export default function QueryViewer() {
@@ -11,7 +11,7 @@ export default function QueryViewer() {
   useEffect(() => {
     axios.get(`http://localhost:8000/api/categories/${category}/queries/${filename}/`)
       .then(res => setQueryText(res.data.content))
-      .catch(() => setQueryText('Error loading query file.'));
+      .catch(() => setQueryText('❌ Error loading query file.'));
 
     axios.get(`http://localhost:8000/api/categories/${category}/output/${filename}/`)
       .then(res => {
@@ -26,10 +26,14 @@ export default function QueryViewer() {
 
   return (
     <div className="container">
-      <h1>📄 {filename}</h1>
+      <Link to={`/category/${category}`} style={{ marginBottom: '1rem', display: 'inline-block' }}>
+        ⬅ Back to {decodeURIComponent(category).replace(/_/g, ' ')}
+      </Link>
+
+      <h1>📄 {filename.replace(/_/g, ' ')}</h1>
 
       <section>
-        <h2>📘 Hive Query Preview</h2>
+        <h2>📘 Hive Query</h2>
         <pre>{queryText}</pre>
       </section>
 
@@ -38,8 +42,7 @@ export default function QueryViewer() {
 
         {csvError && (
           <p style={{ color: 'gray', fontStyle: 'italic' }}>
-            ⚠️ No CSV found. Please add <code>{filename.replace('.txt', '.csv')}</code> inside
-            <code> output/</code> folder under <strong>{category}</strong>.
+            ⚠️ No CSV found for this query. To display output, add a file named <code>{filename.replace('.txt', '.csv')}</code> inside the <code>output/</code> folder of this category.
           </p>
         )}
 

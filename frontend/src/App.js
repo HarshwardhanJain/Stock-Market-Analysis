@@ -42,15 +42,23 @@ export default function App() {
         {categories.map((cat, i) => (
           <Link to={`/category/${encodeURIComponent(cat.name)}`} key={i}>
             <div style={{
-              border: '1px solid #ddd',
+              border: '1px solid #d0d7de',
               borderRadius: '8px',
               padding: '1.2rem',
-              background: '#fff',
-              boxShadow: '0 2px 6px rgba(0,0,0,0.05)',
+              background: '#ffffff',
+              boxShadow: '0 2px 6px rgba(0,0,0,0.04)',
               transition: '0.2s',
+              wordBreak: 'break-word',
             }}>
-              <h3 style={{ margin: '0 0 0.5rem 0' }}>{cat.name}</h3>
-              <p style={{ color: '#666', fontSize: '0.95rem' }}>{cat.description}</p>
+              <h3 style={{
+                margin: '0 0 0.5rem 0',
+                fontSize: '1.1rem',
+                wordBreak: 'break-word',
+                color: '#2e7d32'
+              }}>
+                {cat.name.replace(/_/g, ' ')}
+              </h3>
+              <p style={{ color: '#555', fontSize: '0.95rem' }}>{cat.description}</p>
             </div>
           </Link>
         ))}
