@@ -15,11 +15,13 @@ This project demonstrates how **Apache Hive** can be used over **Hadoop HDFS** t
 ## 📁 Dataset Description
 
 ### StockPrices.csv
+
 - **Fields:** `stock_id`, `date`, `open_price`, `close_price`, `high_price`, `low_price`, `volume`
 - **Size:** 50 MB  
 - **Records:** 851,265  
 
 ### StockCompanies.csv
+
 - **Fields:** `stock_id`, `company_name`, `sector`, `industry`
 - **Size:** 40 KB  
 - **Records:** 509  
@@ -75,7 +77,8 @@ python manage.py runserver
 ```
 
 Make sure Hive query `.txt` files and output files are organized under:
-```
+
+```txt
 project_data/
   ├── 1_Volume_Based_Queries/
   │    ├── query1.txt
