@@ -1,0 +1,502 @@
+sc.sub_industry,sp.symbol,max_volume
+Banks,BAC,8.596434E8
+Integrated Telecommunications Services,VZ,6.166205E8
+Networking Equipment,CSCO,5.600402E8
+Automobile Manufacturers,F,4.808795E8
+Computer Hardware,AAPL,4.702495E8
+Automobile Manufacturers,GM,4.570443E8
+Alternative Carriers,LVLT,4.449942E8
+Computer Hardware,HPQ,4.420123E8
+Industrial Conglomerates,GE,4.313326E8
+Internet Software & Services,FB,3.654579E8
+Banks,C,3.267829E8
+Property & Casualty Insurance,AIG,3.225104E8
+Systems Software,MSFT,3.193179E8
+Internet Software & Services,NFLX,3.155418E8
+Pharmaceuticals,PFE,2.844681E8
+Oil & Gas Exploration & Production,MRO,2.739966E8
+Oil & Gas Refining & Marketing & Transportation,KMI,2.515288E8
+Health Care Equipment,BSX,2.43874E8
+Internet Software & Services,YHOO,2.338721E8
+Integrated Telecommunications Services,FTR,2.231656E8
+Semiconductor Equipment,AMAT,2.194152E8
+Building Products,JCI,2.190575E8
+Banks,JPM,2.172942E8
+Airlines,DAL,2.063723E8
+Internet Software & Services,V,2.022308E8
+Semiconductors,INTC,1.990026E8
+Integrated Oil & Gas,CHK,1.889664E8
+Internet Software & Services,EBAY,1.835567E8
+Application Software,ORCL,1.835039E8
+Publishing,FOXA,1.666871E8
+Banks,HBAN,1.617461E8
+Diversified Financial Services,RF,1.552782E8
+Semiconductors,MU,1.539061E8
+Copper,FCX,1.53828E8
+Biotechnology,GILD,1.4644E8
+Banks,WFC,1.449857E8
+Airlines,AAL,1.377672E8
+Life & Health Insurance,MET,1.349932E8
+Home Entertainment Software,ATVI,1.330824E8
+Semiconductors,QCOM,1.308922E8
+Consumer Finance,SYF,1.289819E8
+Integrated Telecommunications Services,T,1.259987E8
+Personal Products,PG,1.237357E8
+Pharmaceuticals,ABBV,1.227402E8
+Cable & Satellite,DISCA,1.191758E8
+Integrated Oil & Gas,XOM,1.180235E8
+Retail REITs,GGP,1.168357E8
+Banks,FITB,1.149686E8
+Railroads,CSX,1.105713E8
+Application Software,ADBE,1.087524E8
+Internet Software & Services,MA,1.0838E8
+Investment Banking & Brokerage,GS,1.020437E8
+Electric Utilities,PPL,1.016546E8
+Oil & Gas Exploration & Production,WMB,1.01131E8
+Soft Drinks,KO,9.89675E7
+Health Care Equipment,JNJ,9.84402E7
+Oil & Gas Equipment & Services,HAL,9.78479E7
+Oil & Gas Exploration & Production,DVN,9.71775E7
+Regional Banks,CFG,9.48753E7
+Specialty Stores,SPLS,9.38706E7
+Oil & Gas Exploration & Production,SWN,9.32932E7
+Health Care Equipment,BAX,9.24056E7
+Tobacco,RAI,9.21903E7
+Broadcasting & Cable TV,CBS,9.00006E7
+IT Consulting & Other Services,ACN,8.96559E7
+Computer Storage & Peripherals,STX,8.96297E7
+Banks,KEY,8.8248E7
+Semiconductors,NVDA,8.73328E7
+Electronic Components,GLW,8.71571E7
+Oil & Gas Equipment & Services,SLB,8.71306E7
+Broadcasting & Cable TV,DIS,8.70485E7
+Electronic Manufacturing Services,TEL,8.67385E7
+Apparel; Accessories & Luxury Goods,NKE,8.63396E7
+Personal Products,COTY,8.62693E7
+Health Care Distributors,BMY,8.62126E7
+Industrial Conglomerates,IR,8.54269E7
+Computer & Electronics Retail,BBY,8.5048E7
+Apparel; Accessories & Luxury Goods,UAA,8.43412E7
+Drug Retail,WBA,8.41301E7
+Cable & Satellite,CMCSA,8.32698E7
+Oil & Gas Exploration & Production,COP,8.14253E7
+Health Care Facilities,HCA,8.11484E7
+Hypermarkets & Super Centers,WMT,8.08981E7
+Diversified Chemicals,DOW,7.98494E7
+Food Retail,KR,7.94286E7
+IT Consulting & Other Services,XRX,7.9286E7
+Health Care Equipment,ABT,7.81083E7
+Oil & Gas Drilling,RIG,7.77801E7
+Health Care Distributors,ESRX,7.77761E7
+Oil & Gas Exploration & Production,COG,7.61766E7
+IT Consulting & Other Services,CTSH,7.61332E7
+Banks,PNC,7.46809E7
+Pharmaceuticals,MRK,7.42944E7
+Packaged Foods & Meats,MDLZ,7.41966E7
+Property & Casualty Insurance,CB,7.32352E7
+Restaurants,SBUX,7.22062E7
+Integrated Telecommunications Services,CTL,7.19436E7
+Food Distributors,SYY,7.16839E7
+Broadcasting & Cable TV,TWX,6.97441E7
+Oil & Gas Equipment & Services,BHI,6.96916E7
+Aerospace & Defense,ARNC,6.93229E7
+Apparel; Accessories & Luxury Goods,KORS,6.92374E7
+Fertilizers & Agricultural Chemicals,CF,6.8882E7
+Consumer Finance,AXP,6.84171E7
+Diversified Financial Services,ICE,6.8379E7
+Airlines,UAL,6.78262E7
+Publishing,FOX,6.72386E7
+Pharmaceuticals,ZTS,6.67891E7
+Soft Drinks,MNST,6.6759E7
+General Merchandise Stores,DG,6.61372E7
+Health Care Equipment,MDT,6.54378E7
+Health Care Technology,CERN,6.4692E7
+Internet Software & Services,CRM,6.45628E7
+Oil & Gas Refining & Marketing & Transportation,SE,6.40128E7
+Apparel; Accessories & Luxury Goods,HBI,6.37975E7
+Internet Software & Services,WU,6.27402E7
+Application Software,SYMC,6.24508E7
+Distributors,LKQ,6.15859E7
+Networking Equipment,JNPR,6.1572E7
+Fertilizers & Agricultural Chemicals,MOS,6.13784E7
+Property & Casualty Insurance,HIG,5.86625E7
+Investment Banking & Brokerage,SCHW,5.85323E7
+Pharmaceuticals,ENDP,5.77697E7
+REITs,WY,5.75947E7
+Semiconductors,AVGO,5.6028E7
+General Merchandise Stores,DLTR,5.5721E7
+Tobacco,MO,5.44687E7
+Internet Software & Services,NTAP,5.42158E7
+Pharmaceuticals,LLY,5.38772E7
+Residential REITs,UDR,5.37259E7
+Oil & Gas Exploration & Production,OKE,5.30921E7
+Health Care Equipment,HOLX,5.2961E7
+Data Processing & Outsourced Services,PYPL,5.22865E7
+Investment Banking & Brokerage,ETFC,5.20132E7
+Independent Power Producers & Energy Traders,NRG,5.20028E7
+Electric Utilities,LNT,5.18808E7
+Household Products,CHD,5.1369E7
+Restaurants,YUM,5.11063E7
+Apparel; Accessories & Luxury Goods,COH,5.09736E7
+Pharmaceuticals,MYL,5.08792E7
+Home Improvement Retail,LOW,5.04284E7
+Distillers & Vintners,STZ,5.02931E7
+Drug Retail,CVS,5.02344E7
+REITs,CCI,4.994E7
+Research & Consulting Services,NLSN,4.95491E7
+Fertilizers & Agricultural Chemicals,MON,4.9239E7
+Food Retail,WFM,4.9122E7
+Home Improvement Retail,HD,4.90887E7
+Semiconductors,TXN,4.84775E7
+REITs,PLD,4.76862E7
+Home Entertainment Software,EA,4.73981E7
+Biotechnology,CELG,4.67988E7
+Health Care Equipment,EW,4.64126E7
+Independent Power Producers & Energy Traders,AES,4.60676E7
+Oil & Gas Exploration & Production,APC,4.57751E7
+Banks,USB,4.53064E7
+Internet Software & Services,VRSN,4.51231E7
+MultiUtilities,EXC,4.44077E7
+Aerospace & Defense,BA,4.43918E7
+Oil & Gas Refining & Marketing & Transportation,VLO,4.40237E7
+MultiUtilities,NI,4.38501E7
+Technology Hardware; Storage & Peripherals,HPE,4.38338E7
+Airlines,LUV,4.38249E7
+Specialty Stores,KMX,4.25653E7
+Internet & Direct Marketing Retail,AMZN,4.24211E7
+Housewares & Specialties,NWL,4.24173E7
+Internet Software & Services,AKAM,4.23301E7
+Biotechnology,VRTX,4.22583E7
+Advertising,IPG,4.18017E7
+Biotechnology,AMGN,4.15635E7
+Diversified Chemicals,LYB,4.11428E7
+Semiconductors,SWKS,4.07231E7
+Department Stores,M,4.05407E7
+Diversified Chemicals,DD,4.03566E7
+Integrated Oil & Gas,HES,4.01935E7
+Cable & Satellite,DISCK,4.01898E7
+Consumer Finance,COF,4.01842E7
+Semiconductors,FSLR,4.01712E7
+Hotels; Resorts & Cruise Lines,CCL,3.99441E7
+Retail REITs,O,3.99286E7
+Technology; Hardware; Software and Supplies,PBI,3.97704E7
+Managed Health Care,CNC,3.92089E7
+Apparel Retail,GPS,3.88131E7
+Gold,NEM,3.87422E7
+Banks,BK,3.8604E7
+Auto Parts & Equipment,BWA,3.80176E7
+Insurance Brokers,AJG,3.69351E7
+Data Processing & Outsourced Services,GPN,3.673E7
+Pharmaceuticals,AGN,3.65913E7
+Restaurants,MCD,3.64716E7
+General Merchandise Stores,TGT,3.64056E7
+Publishing,TGNA,3.61093E7
+Internet Software & Services,FIS,3.5975E7
+Banks,STI,3.59365E7
+Cable & Satellite,CHTR,3.54666E7
+Oil & Gas Exploration & Production,NFX,3.46903E7
+Apparel Retail,URBN,3.45303E7
+Hotels; Resorts & Cruise Lines,RCL,3.45089E7
+Application Software,ADSK,3.44191E7
+Thrifts & Mortgage Finance,PBCT,3.42028E7
+Construction & Farm Machinery & Heavy Trucks,CAT,3.4041E7
+Life Sciences Tools & Services,ILMN,3.38522E7
+Specialized REITs,DLR,3.37802E7
+Diversified Financial Services,SPGI,3.36211E7
+Water Utilities,AWK,3.35671E7
+Broadcasting & Cable TV,VIAB,3.31912E7
+Semiconductors,XLNX,3.30238E7
+Household Products,CL,3.2939E7
+Telecommunications Equipment,MSI,3.28957E7
+Packaged Foods & Meats,TSN,3.23211E7
+MultiUtilities,CNP,3.22341E7
+Oil & Gas Exploration & Production,EOG,3.2201E7
+Consumer Finance,HRB,3.21185E7
+Publishing,NWSA,3.19815E7
+Building Products,FBHS,3.18056E7
+Apparel Retail,FL,3.17608E7
+Motorcycle Manufacturers,HOG,3.17394E7
+Homebuilding,PHM,3.17295E7
+MultiUtilities,PCG,3.08107E7
+Integrated Oil & Gas,CVX,3.07173E7
+Packaged Foods & Meats,MJN,3.06431E7
+REITs,EQIX,3.05742E7
+Apparel Retail,TJX,3.03134E7
+Retail REITs,MAC,3.02125E7
+Pharmaceuticals,PRGO,3.0032E7
+Specialty Retail,TSCO,3.0011E7
+Semiconductor Equipment,LRCX,2.98766E7
+Internet Software & Services,GOOG,2.97606E7
+Internet Software & Services,GOOGL,2.96199E7
+Department Stores,JWN,2.95451E7
+Air Freight & Logistics,UPS,2.93264E7
+Oil & Gas Exploration & Production,APA,2.92321E7
+Managed Health Care,UNH,2.91927E7
+Oil & Gas Equipment & Services,NOV,2.9173E7
+REITs,HCP,2.89544E7
+Semiconductors,QRVO,2.88663E7
+Homebuilding,DHI,2.88142E7
+Homebuilding,LEN,2.87094E7
+Leisure Products,MAT,2.8649E7
+Pharmaceuticals,MNK,2.83933E7
+Internet & Direct Marketing Retail,EXPE,2.82597E7
+Health Care Distributors,MCK,2.81581E7
+Tobacco,PM,2.81478E7
+Oil & Gas Drilling,HP,2.80213E7
+Industrial Machinery,PNR,2.79764E7
+Semiconductors,MCHP,2.7891E7
+Oil & Gas Refining & Marketing & Transportation,MPC,2.7575E7
+Airlines,ALK,2.73471E7
+Soft Drinks,PEP,2.73371E7
+Electrical Components & Equipment,AME,2.72135E7
+Building Products,MAS,2.68073E7
+Research & Consulting Services,VRSK,2.6526E7
+Biotechnology,ALXN,2.63992E7
+Computer Storage & Peripherals,WDC,2.63409E7
+Regional Banks,ZION,2.63331E7
+Specialized REITs,AMT,2.62598E7
+Packaged Foods & Meats,CAG,2.61354E7
+REITs,HST,2.61068E7
+Tires & Rubber,GT,2.60484E7
+Diversified Chemicals,PPG,2.60178E7
+Diversified Financial Services,PRU,2.57775E7
+General Merchandise Stores,KSS,2.56484E7
+Health Care Equipment,A,2.53686E7
+Regional Banks,CMA,2.50671E7
+Industrial Conglomerates,DHR,2.49014E7
+Specialty Chemicals,ALB,2.48955E7
+Residential REITs,MAA,2.46582E7
+Property & Casualty Insurance,PGR,2.44126E7
+Industrial Conglomerates,PWR,2.44086E7
+REITs,VTR,2.43822E7
+REITs,HCN,2.42686E7
+Semiconductor Equipment,KLAC,2.42324E7
+Asset Management & Custody Banks,IVZ,2.40838E7
+Apparel Retail,ROST,2.39848E7
+Systems Software,CA,2.39376E7
+Oil & Gas Exploration & Production,CXO,2.38818E7
+Paper Packaging,SEE,2.38694E7
+Construction & Farm Machinery & Heavy Trucks,DE,2.37356E7
+Consumer Electronics,GRMN,2.36688E7
+MultiUtilities,ES,2.36171E7
+IT Consulting & Other Services,IBM,2.34165E7
+Networking Equipment,FFIV,2.33295E7
+Specialty Chemicals,ECL,2.31852E7
+Electric Utilities,SO,2.31587E7
+Apparel; Accessories & Luxury Goods,VFC,2.30028E7
+Asset Management & Custody Banks,BLK,2.2888E7
+MultiUtilities,XEL,2.28271E7
+Insurance Brokers,AON,2.2718E7
+Semiconductors,LLTC,2.2605E7
+Diversified Financial Services,MCO,2.24112E7
+Industrial Conglomerates,UTX,2.18283E7
+Application Software,TDC,2.171E7
+Hotels; Resorts & Cruise Lines,MAR,2.15934E7
+Industrial Machinery,ITW,2.14706E7
+Managed Health Care,ANTM,2.1435E7
+Internet Software & Services,FISV,2.14336E7
+Electric Utilities,AEP,2.12671E7
+Banks,BBT,2.12101E7
+Industrial Machinery,FLS,2.10024E7
+Brewers,TAP,2.09289E7
+Oil & Gas Exploration & Production,NBL,2.08869E7
+Industrial Conglomerates,EMR,2.05729E7
+Paper Packaging,IP,2.05582E7
+Health Care Services,EVHC,2.0554E7
+Industrial Conglomerates,HON,2.04463E7
+Property & Casualty Insurance,XL,2.02271E7
+Packaged Foods & Meats,GIS,1.99542E7
+Internet & Direct Marketing Retail,TRIP,1.99276E7
+Packaged Foods & Meats,HSY,1.98994E7
+Agricultural Products,ADM,1.98601E7
+Industrial Conglomerates,TXT,1.98153E7
+Railroads,UNP,1.97086E7
+Consumer Finance,DFS,1.96021E7
+REITs,IRM,1.95828E7
+Managed Health Care,AET,1.95422E7
+Industrial Conglomerates,ETN,1.95125E7
+Electric Utilities,FE,1.93688E7
+Health Care Supplies,XRAY,1.92845E7
+Health Care Equipment,TMO,1.92427E7
+Health Care Distributors,ABC,1.92412E7
+Specialty Stores,BBBY,1.9204E7
+Oil & Gas Exploration & Production,RRC,1.908E7
+Trucking,JBHT,1.90623E7
+Internet Software & Services,INTU,1.8975E7
+Residential REITs,ESS,1.89535E7
+Publishing,NWS,1.87926E7
+Packaged Foods & Meats,KHC,1.87461E7
+Diversified Financial Services,UNM,1.87343E7
+Multi-Sector Holdings,LUK,1.86915E7
+Construction Materials,MLM,1.84817E7
+Health Care Distributors,CAH,1.84576E7
+Managed Health Care,CI,1.83799E7
+Environmental Services,WM,1.83542E7
+Life & Health Insurance,AFL,1.83466E7
+Diversified Financial Services,NDAQ,1.82632E7
+REITs,EQR,1.81462E7
+Personal Products,EL,1.8136E7
+Internet Software & Services,CTXS,1.81312E7
+Household Products,CLX,1.81137E7
+Systems Software,RHT,1.8029E7
+Multi-line Insurance,LNC,1.79854E7
+Specialized REITs,EXR,1.77998E7
+Diversified Financial Services,STT,1.77203E7
+Advertising,OMC,1.76326E7
+Apparel Retail,LB,1.75726E7
+Industrial Conglomerates,RSG,1.74835E7
+Apparel; Accessories & Luxury Goods,PVH,1.74442E7
+Auto Parts & Equipment,DLPH,1.74377E7
+Railroads,KSU,1.73411E7
+Trading Companies & Distributors,URI,1.72284E7
+Integrated Oil & Gas,MUR,1.69248E7
+Specialty Stores,SIG,1.6789E7
+Oil & Gas Exploration & Production,OXY,1.67067E7
+Asset Management & Custody Banks,BEN,1.66938E7
+Biotechnology,BIIB,1.66341E7
+Office REITs,SLG,1.64745E7
+Banks,MTB,1.64494E7
+Real Estate Services,CBG,1.63179E7
+Apparel; Accessories & Luxury Goods,TIF,1.62778E7
+Industrial Conglomerates,MMM,1.62281E7
+Casinos & Gaming,WYNN,1.60356E7
+Restaurants,DRI,1.59221E7
+Health Care Facilities,DGX,1.59087E7
+Health Care Distributors,HSIC,1.56118E7
+Oil & Gas Refining & Marketing & Transportation,TSO,1.55371E7
+Diversified Chemicals,EMN,1.55005E7
+Biotechnology,REGN,1.53854E7
+Diversified Commercial Services,FLR,1.53608E7
+Air Freight & Logistics,FDX,1.51225E7
+Industrial Gases,APD,1.50129E7
+Oil & Gas Exploration & Production,EQT,1.50063E7
+Semiconductors,ADI,1.4963E7
+Managed Health Care,HUM,1.49071E7
+Building Products,FAST,1.48428E7
+Oil & Gas Equipment & Services,FTI,1.46971E7
+Health Care Supplies,PDCO,1.46852E7
+REITs,KIM,1.45399E7
+Retail REITs,FRT,1.45392E7
+Automotive Retail,AAP,1.43124E7
+Internet Software & Services,TSS,1.43032E7
+Property & Casualty Insurance,ALL,1.42575E7
+MultiUtilities,CMS,1.41E7
+Oil & Gas Exploration & Production,PXD,1.40561E7
+Oil & Gas Refining & Marketing & Transportation,PSX,1.40285E7
+Electric Utilities,DUK,1.39852E7
+Health Care Facilities,UHS,1.39668E7
+Aerospace & Defense,LMT,1.39623E7
+Specialty Stores,ULTA,1.39267E7
+Household Appliances,SWK,1.37085E7
+Hotels; Resorts & Cruise Lines,WYN,1.36074E7
+Oil & Gas Exploration & Production,XEC,1.35887E7
+Internet Software & Services,PAYX,1.34852E7
+Packaged Foods & Meats,HRL,1.32308E7
+Electric Utilities,PEG,1.32291E7
+Property & Casualty Insurance,TRV,1.31991E7
+Consumer Electronics,HAR,1.31914E7
+Household Appliances,WHR,1.31434E7
+Financial Exchanges & Data,CME,1.30785E7
+Industrial Machinery,CMI,1.30641E7
+Consumer Finance,NAVI,1.29723E7
+Health Care Equipment,BDX,1.29663E7
+Insurance Brokers,MMC,1.28974E7
+REITs,AIV,1.28742E7
+Specialty Stores,ORLY,1.28581E7
+Soft Drinks,DPS,1.27042E7
+Health Care Equipment,ZBH,1.23945E7
+Aerospace & Defense,RTN,1.23026E7
+Railroads,NSC,1.21897E7
+Internet Software & Services,ADP,1.21581E7
+Health Care Facilities,DVA,1.20258E7
+Diversified Financial Services,PFG,1.17637E7
+Electric Utilities,D,1.16876E7
+Multi-line Insurance,AIZ,1.15835E7
+Construction Materials,VMC,1.15678E7
+Hypermarkets & Super Centers,COST,1.15022E7
+Apparel; Accessories & Luxury Goods,RL,1.14784E7
+Leisure Products,HAS,1.14436E7
+Construction & Farm Machinery & Heavy Trucks,PCAR,1.14299E7
+Aerospace & Defense,GD,1.13823E7
+Steel,NUE,1.13468E7
+Industrial Conglomerates,SRCL,1.1316E7
+Household Products,KMB,1.11792E7
+Health Care Supplies,COO,1.11674E7
+Health Care Equipment,SYK,1.10002E7
+Packaged Foods & Meats,K,1.09322E7
+Multi-Sector Holdings,L,1.09267E7
+Electric Utilities,WEC,1.06356E7
+Packaged Foods & Meats,CPB,1.06085E7
+MultiUtilities,NEE,1.0245E7
+Air Freight & Logistics,CHRW,1.02387E7
+Electric Utilities,EIX,1.02227E7
+Human Resource & Employment Services,RHI,1.00612E7
+Industrial Conglomerates,XYL,1.00224E7
+Restaurants,CMG,9795100.0
+Industrial Conglomerates,JEC,9764800.0
+Aerospace & Defense,TDG,9761000.0
+Industrial Conglomerates,COL,9646000.0
+Residential REITs,AVB,9645300.0
+Electronic Components,APH,9580200.0
+Air Freight & Logistics,EXPD,9505000.0
+Electric Utilities,ED,9233600.0
+Asset Management & Custody Banks,AMP,9200400.0
+Health Care Equipment,PKI,9190400.0
+Aerospace & Defense,NOC,9151900.0
+MultiUtilities,AEE,9137800.0
+Industrial Machinery,DOV,9031700.0
+Electrical Components & Equipment,AYI,8821500.0
+Industrial Conglomerates,LEG,8722800.0
+Diversified Chemicals,FMC,8667400.0
+Asset Management & Custody Banks,AMG,8627900.0
+Metal & Glass Containers,BLL,8599100.0
+IT Consulting & Other Services,CSRA,8567500.0
+Industrial Conglomerates,PH,8477700.0
+Paper Packaging,WRK,8386700.0
+Electronic Equipment & Instruments,FLIR,8333100.0
+Health Care Facilities,LH,8323600.0
+Health Care Equipment,VAR,8161500.0
+Industrial Conglomerates,ROK,8160200.0
+Home Furnishings,MHK,7984000.0
+REITs,SPG,7971800.0
+Broadcasting & Cable TV,SNI,7623800.0
+Asset Management & Custody Banks,NTRS,7549000.0
+Telecommunications Equipment,HRS,7249800.0
+Specialty Stores,AN,7227800.0
+Specialty Chemicals,SHW,7164700.0
+Internet & Direct Marketing Retail,PCLN,7077100.0
+Paper Packaging,AVY,6990300.0
+Data Processing & Outsourced Services,ADS,6909500.0
+Diversified Financial Services,TROW,6860300.0
+Diversified Support Services,CTAS,6740000.0
+Industrial Machinery,FTV,6706500.0
+Life & Health Insurance,TMK,6593000.0
+MultiUtilities,SRE,6534800.0
+Industrial Gases,PX,6430200.0
+Health Care Equipment,IDXX,6353200.0
+Packaged Foods & Meats,SJM,6183700.0
+REITs,VNO,6182000.0
+Property & Casualty Insurance,CINF,6097500.0
+Specialty Stores,GPC,6016300.0
+MultiUtilities,PNW,5946600.0
+Electric Utilities,ETR,5862800.0
+Industrial Conglomerates,R,5665500.0
+Health Care Equipment,ISRG,5576300.0
+Industrial Conglomerates,LLL,5484400.0
+Life Sciences Tools & Services,MTD,5344300.0
+Building Products,ALLE,5130700.0
+MultiUtilities,SCG,5121600.0
+Specialty Chemicals,IFF,5063000.0
+Health Care Distributors,WAT,4536500.0
+REITs,BXP,4294900.0
+Industrial Conglomerates,ROP,4247400.0
+MultiUtilities,DTE,4217200.0
+Packaged Foods & Meats,MKC,3963800.0
+Health Care Equipment,BCR,3906000.0
+REITs,PSA,3905400.0
+Research & Consulting Services,EFX,3778900.0
+Research & Consulting Services,DNB,3555100.0
+Insurance Brokers,WLTW,3531200.0
+Industrial Materials,GWW,2882900.0
+Specialty Stores,AZO,2279500.0
+Household Appliances,SNA,2109500.0

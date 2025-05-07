@@ -1,0 +1,502 @@
+sp.symbol,sc.sector,sc.security,sp.dt,sp.close
+A,Health Care,Agilent Technologies Inc,9/9/2016,44.88
+AAL,Industrials,American Airlines Group,9/9/2016,38.49
+AAP,Consumer Discretionary,Advance Auto Parts,9/9/2016,152.96
+AAPL,Information Technology,Apple Inc.,9/9/2016,103.13
+ABBV,Health Care,AbbVie,9/9/2016,63.36
+ABC,Health Care,AmerisourceBergen Corp,9/9/2016,85.31
+ABT,Health Care,Abbott Laboratories,9/9/2016,41.01
+ACN,Information Technology,Accenture plc,9/9/2016,110.39
+ADBE,Information Technology,Adobe Systems Inc,9/9/2016,99.38
+ADI,Information Technology,Analog Devices; Inc.,9/9/2016,59.62
+ADM,Consumer Staples,Archer-Daniels-Midland Co,9/9/2016,42.02
+ADP,Information Technology,Automatic Data Processing,9/9/2016,86.57
+ADS,Information Technology,Alliance Data Systems,9/9/2016,208.66
+ADSK,Information Technology,Autodesk Inc,9/9/2016,66.84
+AEE,Utilities,Ameren Corp,9/9/2016,48.06
+AEP,Utilities,American Electric Power,9/9/2016,63.71
+AES,Utilities,AES Corp,9/9/2016,12.33
+AET,Health Care,Aetna Inc,9/9/2016,115.55
+AFL,Financials,AFLAC Inc,9/9/2016,72.4
+AGN,Health Care,Allergan; Plc,9/9/2016,236.39
+AIG,Financials,American International Group; Inc.,9/9/2016,58.67
+AIV,Real Estate,Apartment Investment & Mgmt,9/9/2016,43.83
+AIZ,Financials,Assurant Inc,9/9/2016,89.23
+AJG,Financials,Arthur J. Gallagher & Co.,9/9/2016,49.17
+AKAM,Information Technology,Akamai Technologies Inc,9/9/2016,52.5
+ALB,Materials,Albemarle Corp,9/9/2016,76.82
+ALK,Industrials,Alaska Air Group Inc,9/9/2016,68.86
+ALL,Financials,Allstate Corp,9/9/2016,67.96
+ALLE,Industrials,Allegion,9/9/2016,66.83
+ALXN,Health Care,Alexion Pharmaceuticals,9/9/2016,124.92
+AMAT,Information Technology,Applied Materials Inc,9/9/2016,28.86
+AME,Industrials,AMETEK Inc,9/9/2016,47.78
+AMG,Financials,Affiliated Managers Group Inc,9/9/2016,144.01
+AMGN,Health Care,Amgen Inc,9/9/2016,166.55
+AMP,Financials,Ameriprise Financial,9/9/2016,99.41
+AMT,Real Estate,American Tower Corp A,9/9/2016,110.19
+AMZN,Consumer Discretionary,Amazon.com Inc,9/9/2016,760.14
+AN,Consumer Discretionary,AutoNation Inc,9/9/2016,47.16
+ANTM,Health Care,Anthem Inc.,9/9/2016,126.89
+AON,Financials,Aon plc,9/9/2016,108.93
+APA,Energy,Apache Corporation,9/9/2016,59.4
+APC,Energy,Anadarko Petroleum Corp,9/9/2016,57.77
+APD,Materials,Air Products & Chemicals Inc,9/9/2016,140.17577
+APH,Information Technology,Amphenol Corp,9/9/2016,61.29
+ARNC,Industrials,Arconic Inc,9/9/2016,7.196407
+ATVI,Information Technology,Activision Blizzard,9/9/2016,42.29
+AVB,Real Estate,AvalonBay Communities; Inc.,9/9/2016,169.69
+AVGO,Information Technology,Broadcom,9/9/2016,160.78
+AVY,Materials,Avery Dennison Corp,9/9/2016,75.33
+AWK,Utilities,American Water Works Company Inc,9/9/2016,72.49
+AXP,Financials,American Express Co,9/9/2016,65.12
+AYI,Industrials,Acuity Brands Inc,9/9/2016,261.4
+AZO,Consumer Discretionary,AutoZone Inc,9/9/2016,722.44
+BA,Industrials,Boeing Company,9/9/2016,128.53
+BAC,Financials,Bank of America Corp,9/9/2016,15.74
+BAX,Health Care,Baxter International Inc.,9/9/2016,45.09
+BBBY,Consumer Discretionary,Bed Bath & Beyond,9/9/2016,43.48
+BBT,Financials,BB&T Corporation,9/9/2016,38.2
+BBY,Consumer Discretionary,Best Buy Co. Inc.,9/9/2016,36.87
+BCR,Health Care,Bard (C.R.) Inc.,9/9/2016,213.55
+BDX,Health Care,Becton Dickinson,9/9/2016,171.0
+BEN,Financials,Franklin Resources,9/9/2016,35.58
+BHI,Energy,Baker Hughes Inc,9/9/2016,49.14
+BIIB,Health Care,BIOGEN IDEC Inc.,9/9/2016,296.1
+BK,Financials,The Bank of New York Mellon Corp.,9/9/2016,40.93
+BLK,Financials,BlackRock,9/9/2016,362.18
+BLL,Materials,Ball Corp,9/9/2016,77.8
+BMY,Health Care,Bristol-Myers Squibb,9/9/2016,55.66
+BSX,Health Care,Boston Scientific,9/9/2016,23.51
+BWA,Consumer Discretionary,BorgWarner,9/9/2016,34.14
+BXP,Real Estate,Boston Properties,9/9/2016,135.22
+C,Financials,Citigroup Inc.,9/9/2016,47.17
+CA,Information Technology,CA; Inc.,9/9/2016,33.07
+CAG,Consumer Staples,ConAgra Foods Inc.,9/9/2016,33.712063
+CAH,Health Care,Cardinal Health Inc.,9/9/2016,78.81
+CAT,Industrials,Caterpillar Inc.,9/9/2016,80.79
+CB,Financials,Chubb Limited,9/9/2016,124.28
+CBG,Real Estate,CBRE Group,9/9/2016,27.87
+CBS,Consumer Discretionary,CBS Corp.,9/9/2016,51.91
+CCI,Real Estate,Crown Castle International Corp.,9/9/2016,93.31
+CCL,Consumer Discretionary,Carnival Corp.,9/9/2016,44.37
+CELG,Health Care,Celgene Corp.,9/9/2016,104.47
+CERN,Health Care,Cerner,9/9/2016,62.22
+CF,Materials,CF Industries Holdings Inc,9/9/2016,25.0
+CFG,Financials,Citizens Financial Group,9/9/2016,24.81
+CHD,Consumer Staples,Church & Dwight,9/9/2016,47.39
+CHK,Energy,Chesapeake Energy,9/9/2016,7.62
+CHRW,Industrials,C. H. Robinson Worldwide,9/9/2016,68.9
+CHTR,Consumer Discretionary,Charter Communications,9/9/2016,264.12
+CI,Health Care,CIGNA Corp.,9/9/2016,128.45
+CINF,Financials,Cincinnati Financial,9/9/2016,75.5
+CL,Consumer Staples,Colgate-Palmolive,9/9/2016,70.86
+CLX,Consumer Staples,The Clorox Company,9/9/2016,122.89
+CMA,Financials,Comerica Inc.,9/9/2016,46.2
+CMCSA,Consumer Discretionary,Comcast A Corp,9/9/2016,65.11
+CME,Financials,CME Group Inc.,9/9/2016,106.05
+CMG,Consumer Discretionary,Chipotle Mexican Grill,9/9/2016,426.55
+CMI,Industrials,Cummins Inc.,9/9/2016,116.81
+CMS,Utilities,CMS Energy,9/9/2016,41.31
+CNC,Health Care,Centene Corporation,9/9/2016,66.85
+CNP,Utilities,CenterPoint Energy,9/9/2016,22.61
+COF,Financials,Capital One Financial,9/9/2016,71.65
+COG,Energy,Cabot Oil & Gas,9/9/2016,26.06
+COH,Consumer Discretionary,Coach Inc.,9/9/2016,36.59
+COL,Industrials,Rockwell Collins,9/9/2016,81.35
+COO,Health Care,The Cooper Companies,9/9/2016,184.83
+COP,Energy,ConocoPhillips,9/9/2016,42.25
+COST,Consumer Staples,Costco Co.,9/9/2016,150.7
+COTY,Consumer Staples,Coty; Inc,9/9/2016,24.25
+CPB,Consumer Staples,Campbell Soup,9/9/2016,54.95
+CRM,Information Technology,Salesforce.com,9/9/2016,74.2
+CSCO,Information Technology,Cisco Systems,9/9/2016,30.85
+CSRA,Information Technology,CSRA Inc.,9/9/2016,26.2
+CSX,Industrials,CSX Corp.,9/9/2016,27.89
+CTAS,Industrials,Cintas Corporation,9/9/2016,113.81
+CTL,Telecommunications Services,CenturyLink Inc,9/9/2016,27.86
+CTSH,Information Technology,Cognizant Technology Solutions,9/9/2016,55.23
+CTXS,Information Technology,Citrix Systems,9/9/2016,83.21
+CVS,Consumer Staples,CVS Health,9/9/2016,91.52
+CVX,Energy,Chevron Corp.,9/9/2016,101.27
+CXO,Energy,Concho Resources,9/9/2016,130.47
+D,Utilities,Dominion Resources,9/9/2016,72.5
+DAL,Industrials,Delta Air Lines,9/9/2016,37.75
+DD,Materials,Du Pont (E.I.),9/9/2016,68.43
+DE,Industrials,Deere & Co.,9/9/2016,82.23
+DFS,Financials,Discover Financial Services,9/9/2016,58.74
+DG,Consumer Discretionary,Dollar General,9/9/2016,70.58
+DGX,Health Care,Quest Diagnostics,9/9/2016,80.92
+DHI,Consumer Discretionary,D. R. Horton,9/9/2016,30.22
+DHR,Industrials,Danaher Corp.,9/9/2016,77.02
+DIS,Consumer Discretionary,The Walt Disney Company,9/9/2016,92.42
+DISCA,Consumer Discretionary,Discovery Communications-A,9/9/2016,24.55
+DISCK,Consumer Discretionary,Discovery Communications-C,9/9/2016,23.67
+DLPH,Consumer Discretionary,Delphi Automotive,9/9/2016,68.01
+DLR,Real Estate,Digital Realty Trust,9/9/2016,96.27
+DLTR,Consumer Discretionary,Dollar Tree,9/9/2016,81.63
+DNB,Industrials,Dun & Bradstreet,9/9/2016,132.93
+DOV,Industrials,Dover Corp.,9/9/2016,69.05
+DOW,Materials,Dow Chemical,9/9/2016,53.41
+DPS,Consumer Staples,Dr Pepper Snapple Group,9/9/2016,89.84
+DRI,Consumer Discretionary,Darden Restaurants,9/9/2016,61.45
+DTE,Utilities,DTE Energy Co.,9/9/2016,91.0
+DUK,Utilities,Duke Energy,9/9/2016,77.95
+DVA,Health Care,DaVita Inc.,9/9/2016,63.65
+DVN,Energy,Devon Energy Corp.,9/9/2016,43.36
+EA,Information Technology,Electronic Arts,9/9/2016,79.86
+EBAY,Information Technology,eBay Inc.,9/9/2016,31.89
+ECL,Materials,Ecolab Inc.,9/9/2016,118.68
+ED,Utilities,Consolidated Edison,9/9/2016,72.95
+EFX,Industrials,Equifax Inc.,9/9/2016,131.09
+EIX,Utilities,Edison Int'l,9/9/2016,71.4
+EL,Consumer Staples,Estee Lauder Cos.,9/9/2016,87.55
+EMN,Materials,Eastman Chemical,9/9/2016,64.69
+EMR,Industrials,Emerson Electric Company,9/9/2016,50.86
+ENDP,Health Care,Endo International,9/9/2016,20.04
+EOG,Energy,EOG Resources,9/9/2016,92.65
+EQIX,Real Estate,Equinix,9/9/2016,362.78
+EQR,Real Estate,Equity Residential,9/9/2016,62.8
+EQT,Energy,EQT Corporation,9/9/2016,72.54
+ES,Utilities,Eversource Energy,9/9/2016,53.25
+ESRX,Health Care,Express Scripts,9/9/2016,71.13
+ESS,Real Estate,Essex Property Trust; Inc.,9/9/2016,219.97
+ETFC,Financials,E*Trade,9/9/2016,26.55
+ETN,Industrials,Eaton Corporation,9/9/2016,63.57
+ETR,Utilities,Entergy Corp.,9/9/2016,77.56
+EVHC,Health Care,Envision Healthcare Corp,9/9/2016,22.62
+EW,Health Care,Edwards Lifesciences,9/9/2016,114.6
+EXC,Utilities,Exelon Corp.,9/9/2016,33.4
+EXPD,Industrials,Expeditors Int'l,9/9/2016,50.57
+EXPE,Consumer Discretionary,Expedia Inc.,9/9/2016,111.1
+EXR,Real Estate,Extra Space Storage,9/9/2016,79.92
+F,Consumer Discretionary,Ford Motor,9/9/2016,12.38
+FAST,Industrials,Fastenal Co,9/9/2016,40.57
+FB,Information Technology,Facebook,9/9/2016,127.1
+FBHS,Industrials,Fortune Brands Home & Security,9/9/2016,58.72
+FCX,Materials,Freeport-McMoran Cp & Gld,9/9/2016,10.27
+FDX,Industrials,FedEx Corporation,9/9/2016,160.85
+FE,Utilities,FirstEnergy Corp,9/9/2016,32.64
+FFIV,Information Technology,F5 Networks,9/9/2016,118.05
+FIS,Information Technology,Fidelity National Information Services,9/9/2016,77.4
+FISV,Information Technology,Fiserv Inc,9/9/2016,100.28
+FITB,Financials,Fifth Third Bancorp,9/9/2016,19.93
+FL,Consumer Discretionary,Foot Locker Inc,9/9/2016,64.59
+FLIR,Information Technology,FLIR Systems,9/9/2016,30.7
+FLR,Industrials,Fluor Corp.,9/9/2016,49.4
+FLS,Industrials,Flowserve Corporation,9/9/2016,46.24
+FMC,Materials,FMC Corporation,9/9/2016,44.86
+FOX,Consumer Discretionary,Twenty-First Century Fox Class B,9/9/2016,24.12
+FOXA,Consumer Discretionary,Twenty-First Century Fox Class A,9/9/2016,23.57
+FRT,Real Estate,Federal Realty Investment Trust,9/9/2016,154.48
+FSLR,Information Technology,First Solar Inc,9/9/2016,37.13
+FTI,Energy,FMC Technologies Inc.,9/9/2016,27.81
+FTR,Telecommunications Services,Frontier Communications,9/9/2016,4.56
+FTV,Industrials,Fortive Corp,9/9/2016,50.55
+GD,Industrials,General Dynamics,9/9/2016,149.91
+GE,Industrials,General Electric,9/9/2016,30.11
+GGP,Real Estate,General Growth Properties Inc.,9/9/2016,28.11
+GILD,Health Care,Gilead Sciences,9/9/2016,78.05
+GIS,Consumer Staples,General Mills,9/9/2016,65.05
+GLW,Information Technology,Corning Inc.,9/9/2016,22.38
+GM,Consumer Discretionary,General Motors,9/9/2016,30.48
+GOOG,Information Technology,Alphabet Inc Class C,9/9/2016,759.66
+GOOGL,Information Technology,Alphabet Inc Class A,9/9/2016,788.48
+GPC,Consumer Discretionary,Genuine Parts,9/9/2016,96.99
+GPN,Information Technology,Global Payments Inc,9/9/2016,73.62
+GPS,Consumer Discretionary,Gap (The),9/9/2016,23.35
+GRMN,Consumer Discretionary,Garmin Ltd.,9/9/2016,47.44
+GS,Financials,Goldman Sachs Group,9/9/2016,168.57
+GT,Consumer Discretionary,Goodyear Tire & Rubber,9/9/2016,30.26
+GWW,Industrials,Grainger (W.W.) Inc.,9/9/2016,222.45
+HAL,Energy,Halliburton Co.,9/9/2016,41.95
+HAR,Consumer Discretionary,Harman Int'l Industries,9/9/2016,80.93
+HAS,Consumer Discretionary,Hasbro Inc.,9/9/2016,79.93
+HBAN,Financials,Huntington Bancshares,9/9/2016,9.86
+HBI,Consumer Discretionary,Hanesbrands Inc,9/9/2016,25.7
+HCA,Health Care,HCA Holdings,9/9/2016,75.94
+HCN,Real Estate,Welltower Inc.,9/9/2016,73.75
+HCP,Real Estate,HCP Inc.,9/9/2016,34.726776
+HD,Consumer Discretionary,Home Depot,9/9/2016,127.74
+HES,Energy,Hess Corporation,9/9/2016,49.92
+HIG,Financials,Hartford Financial Svc.Gp.,9/9/2016,41.05
+HOG,Consumer Discretionary,Harley-Davidson,9/9/2016,50.57
+HOLX,Health Care,Hologic,9/9/2016,37.16
+HON,Industrials,Honeywell Int'l Inc.,9/9/2016,112.01
+HP,Energy,Helmerich & Payne,9/9/2016,59.83
+HPE,Information Technology,Hewlett Packard Enterprise,9/9/2016,20.92
+HPQ,Information Technology,HP Inc.,9/9/2016,14.07
+HRB,Financials,Block H&R,9/9/2016,21.94
+HRL,Consumer Staples,Hormel Foods Corp.,9/9/2016,36.01
+HRS,Information Technology,Harris Corporation,9/9/2016,90.86
+HSIC,Health Care,Henry Schein,9/9/2016,158.86
+HST,Real Estate,Host Hotels & Resorts,9/9/2016,16.2
+HSY,Consumer Staples,The Hershey Company,9/9/2016,96.18
+HUM,Health Care,Humana Inc.,9/9/2016,176.5
+IBM,Information Technology,International Business Machines,9/9/2016,155.69
+ICE,Financials,Intercontinental Exchange,9/9/2016,56.45
+IDXX,Health Care,IDEXX Laboratories,9/9/2016,109.97
+IFF,Materials,Intl Flavors & Fragrances,9/9/2016,134.75
+ILMN,Health Care,Illumina Inc,9/9/2016,164.85
+INTC,Information Technology,Intel Corp.,9/9/2016,35.44
+INTU,Information Technology,Intuit Inc.,9/9/2016,109.25
+IP,Materials,International Paper,9/9/2016,47.71
+IPG,Consumer Discretionary,Interpublic Group,9/9/2016,22.38
+IR,Industrials,Ingersoll-Rand PLC,9/9/2016,63.1
+IRM,Real Estate,Iron Mountain Incorporated,9/9/2016,36.41
+ISRG,Health Care,Intuitive Surgical Inc.,9/9/2016,676.22
+ITW,Industrials,Illinois Tool Works,9/9/2016,115.78
+IVZ,Financials,Invesco Ltd.,9/9/2016,30.78
+JBHT,Industrials,J. B. Hunt Transport Services,9/9/2016,77.85
+JCI,Industrials,Johnson Controls International,9/9/2016,45.7
+JEC,Industrials,Jacobs Engineering Group,9/9/2016,50.15
+JNJ,Health Care,Johnson & Johnson,9/9/2016,118.23
+JNPR,Information Technology,Juniper Networks,9/9/2016,23.16
+JPM,Financials,JPMorgan Chase & Co.,9/9/2016,66.65
+JWN,Consumer Discretionary,Nordstrom,9/9/2016,49.7
+K,Consumer Staples,Kellogg Co.,9/9/2016,77.13
+KEY,Financials,KeyCorp,9/9/2016,12.26
+KHC,Consumer Staples,Kraft Heinz Co,9/9/2016,85.97
+KIM,Real Estate,Kimco Realty,9/9/2016,28.96
+KLAC,Information Technology,KLA-Tencor Corp.,9/9/2016,69.43
+KMB,Consumer Staples,Kimberly-Clark,9/9/2016,122.96
+KMI,Energy,Kinder Morgan,9/9/2016,22.12
+KMX,Consumer Discretionary,Carmax Inc,9/9/2016,55.23
+KO,Consumer Staples,Coca Cola Company,9/9/2016,42.27
+KORS,Consumer Discretionary,Michael Kors Holdings,9/9/2016,47.73
+KR,Consumer Staples,Kroger Co.,9/9/2016,31.51
+KSS,Consumer Discretionary,Kohl's Corp.,9/9/2016,42.89
+KSU,Industrials,Kansas City Southern,9/9/2016,93.16
+L,Financials,Loews Corp.,9/9/2016,41.21
+LB,Consumer Discretionary,L Brands Inc.,9/9/2016,71.43
+LEG,Industrials,Leggett & Platt,9/9/2016,49.41
+LEN,Consumer Discretionary,Lennar Corp.,9/9/2016,45.18
+LH,Health Care,Laboratory Corp. of America Holding,9/9/2016,135.02
+LKQ,Consumer Discretionary,LKQ Corporation,9/9/2016,34.91
+LLL,Industrials,L-3 Communications Holdings,9/9/2016,147.01
+LLTC,Information Technology,Linear Technology Corp.,9/9/2016,57.7
+LLY,Health Care,Lilly (Eli) & Co.,9/9/2016,78.24
+LMT,Industrials,Lockheed Martin Corp.,9/9/2016,237.94
+LNC,Financials,Lincoln National,9/9/2016,46.97
+LNT,Utilities,Alliant Energy Corp,9/9/2016,37.15
+LOW,Consumer Discretionary,Lowe's Cos.,9/9/2016,71.77
+LRCX,Information Technology,Lam Research,9/9/2016,91.18
+LUK,Financials,Leucadia National Corp.,9/9/2016,18.98
+LUV,Industrials,Southwest Airlines,9/9/2016,37.34
+LVLT,Telecommunications Services,Level 3 Communications,9/9/2016,48.35
+LYB,Materials,LyondellBasell,9/9/2016,76.19
+M,Consumer Discretionary,Macy's Inc.,9/9/2016,35.48
+MA,Information Technology,Mastercard Inc.,9/9/2016,98.15
+MAA,Real Estate,Mid-America Apartments,9/9/2016,92.51
+MAC,Real Estate,Macerich,9/9/2016,80.03
+MAR,Consumer Discretionary,Marriott Int'l.,9/9/2016,67.16
+MAS,Industrials,Masco Corp.,9/9/2016,33.26
+MAT,Consumer Discretionary,Mattel Inc.,9/9/2016,31.73
+MCD,Consumer Discretionary,McDonald's Corp.,9/9/2016,114.58
+MCHP,Information Technology,Microchip Technology,9/9/2016,58.52
+MCK,Health Care,McKesson Corp.,9/9/2016,176.09
+MCO,Financials,Moody's Corp,9/9/2016,106.62
+MDLZ,Consumer Staples,Mondelez International,9/9/2016,42.09
+MDT,Health Care,Medtronic plc,9/9/2016,84.87
+MET,Financials,MetLife Inc.,9/9/2016,43.91
+MHK,Consumer Discretionary,Mohawk Industries,9/9/2016,203.53
+MJN,Consumer Staples,Mead Johnson,9/9/2016,77.58
+MKC,Consumer Staples,McCormick & Co.,9/9/2016,96.18
+MLM,Materials,Martin Marietta Materials,9/9/2016,175.0
+MMC,Financials,Marsh & McLennan,9/9/2016,65.99
+MMM,Industrials,3M Company,9/9/2016,175.64
+MNK,Health Care,Mallinckrodt Plc,9/9/2016,73.07
+MNST,Consumer Staples,Monster Beverage,9/9/2016,49.183334
+MO,Consumer Staples,Altria Group Inc,9/9/2016,63.56
+MON,Materials,Monsanto Co.,9/9/2016,106.78
+MOS,Materials,The Mosaic Company,9/9/2016,27.01
+MPC,Energy,Marathon Petroleum,9/9/2016,42.24
+MRK,Health Care,Merck & Co.,9/9/2016,62.49
+MRO,Energy,Marathon Oil Corp.,9/9/2016,15.67
+MSFT,Information Technology,Microsoft Corp.,9/9/2016,56.21
+MSI,Information Technology,Motorola Solutions Inc.,9/9/2016,76.65
+MTB,Financials,M&T Bank Corp.,9/9/2016,117.09
+MTD,Health Care,Mettler Toledo,9/9/2016,388.8
+MU,Information Technology,Micron Technology,9/9/2016,16.81
+MUR,Energy,Murphy Oil,9/9/2016,27.94
+MYL,Health Care,Mylan N.V.,9/9/2016,39.89
+NAVI,Financials,Navient,9/9/2016,14.23
+NBL,Energy,Noble Energy Inc,9/9/2016,36.08
+NDAQ,Financials,NASDAQ OMX Group,9/9/2016,68.98
+NEE,Utilities,NextEra Energy,9/9/2016,120.86
+NEM,Materials,Newmont Mining Corp. (Hldg. Co.),9/9/2016,39.3
+NFLX,Information Technology,Netflix Inc.,9/9/2016,96.5
+NFX,Energy,Newfield Exploration Co,9/9/2016,44.53
+NI,Utilities,NiSource Inc.,9/9/2016,23.37
+NKE,Consumer Discretionary,Nike,9/9/2016,55.33
+NLSN,Industrials,Nielsen Holdings,9/9/2016,52.0
+NOC,Industrials,Northrop Grumman Corp.,9/9/2016,209.24
+NOV,Energy,National Oilwell Varco Inc.,9/9/2016,33.15
+NRG,Utilities,NRG Energy,9/9/2016,11.6
+NSC,Industrials,Norfolk Southern Corp.,9/9/2016,90.78
+NTAP,Information Technology,NetApp,9/9/2016,34.27
+NTRS,Financials,Northern Trust Corp.,9/9/2016,68.95
+NUE,Materials,Nucor Corp.,9/9/2016,46.83
+NVDA,Information Technology,Nvidia Corporation,9/9/2016,59.52
+NWL,Consumer Discretionary,Newell Brands,9/9/2016,50.4
+NWS,Consumer Discretionary,News Corp. Class B,9/9/2016,13.74
+NWSA,Consumer Discretionary,News Corp. Class A,9/9/2016,13.36
+O,Real Estate,Realty Income Corporation,9/9/2016,64.26
+OKE,Energy,ONEOK,9/9/2016,48.81
+OMC,Consumer Discretionary,Omnicom Group,9/9/2016,83.75
+ORCL,Information Technology,Oracle Corp.,9/9/2016,40.03
+ORLY,Consumer Discretionary,O'Reilly Automotive,9/9/2016,278.21
+OXY,Energy,Occidental Petroleum,9/9/2016,76.11
+PAYX,Information Technology,Paychex Inc.,9/9/2016,59.29
+PBCT,Financials,People's United Financial,9/9/2016,16.08
+PBI,Industrials,Pitney-Bowes,9/9/2016,17.78
+PCAR,Industrials,PACCAR Inc.,9/9/2016,56.11
+PCG,Utilities,PG&E Corp.,9/9/2016,60.83
+PCLN,Consumer Discretionary,Priceline.com Inc,9/9/2016,1413.9
+PDCO,Health Care,Patterson Companies,9/9/2016,45.02
+PEG,Utilities,Public Serv. Enterprise Inc.,9/9/2016,41.13
+PEP,Consumer Staples,PepsiCo Inc.,9/9/2016,104.05
+PFE,Health Care,Pfizer Inc.,9/9/2016,34.1
+PFG,Financials,Principal Financial Group,9/9/2016,48.37
+PG,Consumer Staples,Procter & Gamble,9/9/2016,86.24
+PGR,Financials,Progressive Corp.,9/9/2016,31.24
+PH,Industrials,Parker-Hannifin,9/9/2016,120.78
+PHM,Consumer Discretionary,Pulte Homes Inc.,9/9/2016,20.04
+PKI,Health Care,PerkinElmer,9/9/2016,52.75
+PLD,Real Estate,Prologis,9/9/2016,51.49
+PM,Consumer Staples,Philip Morris International,9/9/2016,97.54
+PNC,Financials,PNC Financial Services,9/9/2016,89.92
+PNR,Industrials,Pentair Ltd.,9/9/2016,59.89
+PNW,Utilities,Pinnacle West Capital,9/9/2016,73.95
+PPG,Materials,PPG Industries,9/9/2016,100.86
+PPL,Utilities,PPL Corp.,9/9/2016,33.63
+PRGO,Health Care,Perrigo,9/9/2016,88.71
+PRU,Financials,Prudential Financial,9/9/2016,79.18
+PSA,Real Estate,Public Storage,9/9/2016,218.58
+PSX,Energy,Phillips 66,9/9/2016,77.86
+PVH,Consumer Discretionary,PVH Corp.,9/9/2016,107.15
+PWR,Industrials,Quanta Services Inc.,9/9/2016,25.32
+PX,Materials,Praxair Inc.,9/9/2016,117.41
+PXD,Energy,Pioneer Natural Resources,9/9/2016,180.6
+PYPL,Information Technology,PayPal,9/9/2016,38.01
+QCOM,Information Technology,QUALCOMM Inc.,9/9/2016,60.52
+QRVO,Information Technology,Qorvo,9/9/2016,52.48
+R,Industrials,Ryder System,9/9/2016,64.95
+RAI,Consumer Staples,Reynolds American Inc.,9/9/2016,47.15
+RCL,Consumer Discretionary,Royal Caribbean Cruises Ltd,9/9/2016,65.98
+REGN,Health Care,Regeneron,9/9/2016,384.43
+RF,Financials,Regions Financial Corp.,9/9/2016,9.83
+RHI,Industrials,Robert Half International,9/9/2016,37.3
+RHT,Information Technology,Red Hat Inc.,9/9/2016,72.24
+RIG,Energy,Transocean,9/9/2016,9.83
+RL,Consumer Discretionary,Polo Ralph Lauren Corp.,9/9/2016,100.74
+ROK,Industrials,Rockwell Automation Inc.,9/9/2016,112.5
+ROP,Industrials,Roper Industries,9/9/2016,176.06
+ROST,Consumer Discretionary,Ross Stores,9/9/2016,60.78
+RRC,Energy,Range Resources Corp.,9/9/2016,42.24
+RSG,Industrials,Republic Services Inc,9/9/2016,49.52
+RTN,Industrials,Raytheon Co.,9/9/2016,136.08
+SBUX,Consumer Discretionary,Starbucks Corp.,9/9/2016,54.35
+SCG,Utilities,SCANA Corp,9/9/2016,69.05
+SCHW,Financials,Charles Schwab Corporation,9/9/2016,30.65
+SE,Energy,Spectra Energy Corp.,9/9/2016,42.8
+SEE,Materials,Sealed Air,9/9/2016,45.44
+SHW,Materials,Sherwin-Williams,9/9/2016,274.39
+SIG,Consumer Discretionary,Signet Jewelers,9/9/2016,76.9
+SJM,Consumer Staples,JM Smucker,9/9/2016,135.93
+SLB,Energy,Schlumberger Ltd.,9/9/2016,77.56
+SLG,Real Estate,SL Green Realty,9/9/2016,111.0
+SNA,Consumer Discretionary,Snap-On Inc.,9/9/2016,147.52
+SNI,Consumer Discretionary,Scripps Networks Interactive Inc.,9/9/2016,61.83
+SO,Utilities,Southern Co.,9/9/2016,50.87
+SPG,Real Estate,Simon Property Group Inc,9/9/2016,209.9
+SPGI,Financials,S&P Global; Inc.,9/9/2016,122.22
+SPLS,Consumer Discretionary,Staples Inc.,9/9/2016,8.52
+SRCL,Industrials,Stericycle Inc,9/9/2016,82.07
+SRE,Utilities,Sempra Energy,9/9/2016,102.9
+STI,Financials,SunTrust Banks,9/9/2016,43.39
+STT,Financials,State Street Corp.,9/9/2016,69.7
+STX,Information Technology,Seagate Technology,9/9/2016,36.09
+STZ,Consumer Staples,Constellation Brands,9/9/2016,162.35
+SWK,Consumer Discretionary,Stanley Black & Decker,9/9/2016,119.71
+SWKS,Information Technology,Skyworks Solutions,9/9/2016,66.76
+SWN,Energy,Southwestern Energy,9/9/2016,14.72
+SYF,Financials,Synchrony Financial,9/9/2016,26.93
+SYK,Health Care,Stryker Corp.,9/9/2016,110.54
+SYMC,Information Technology,Symantec Corp.,9/9/2016,24.49
+SYY,Consumer Staples,Sysco Corp.,9/9/2016,49.8
+T,Telecommunications Services,AT&T Inc,9/9/2016,39.71
+TAP,Consumer Staples,Molson Coors Brewing Company,9/9/2016,101.34
+TDC,Information Technology,Teradata Corp.,9/9/2016,29.79
+TDG,Industrials,TransDigm Group,9/9/2016,283.41
+TEL,Information Technology,TE Connectivity Ltd.,9/9/2016,60.98
+TGNA,Consumer Discretionary,Tegna; Inc.,9/9/2016,21.12
+TGT,Consumer Discretionary,Target Corp.,9/9/2016,69.0
+TIF,Consumer Discretionary,Tiffany & Co.,9/9/2016,67.27
+TJX,Consumer Discretionary,TJX Companies Inc.,9/9/2016,74.76
+TMK,Financials,Torchmark Corp.,9/9/2016,64.37
+TMO,Health Care,Thermo Fisher Scientific,9/9/2016,143.68
+TRIP,Consumer Discretionary,TripAdvisor,9/9/2016,61.72
+TROW,Financials,T. Rowe Price Group,9/9/2016,67.48
+TRV,Financials,The Travelers Companies Inc.,9/9/2016,114.44
+TSCO,Consumer Discretionary,Tractor Supply Company,9/9/2016,68.42
+TSN,Consumer Staples,Tyson Foods,9/9/2016,72.26
+TSO,Energy,Tesoro Petroleum Co.,9/9/2016,79.14
+TSS,Information Technology,Total System Services,9/9/2016,49.08
+TWX,Consumer Discretionary,Time Warner Inc.,9/9/2016,77.01
+TXN,Information Technology,Texas Instruments,9/9/2016,66.67
+TXT,Industrials,Textron Inc.,9/9/2016,39.83
+UAA,Consumer Discretionary,Under Armour,9/9/2016,38.36
+UAL,Industrials,United Continental Holdings,9/9/2016,52.45
+UDR,Real Estate,UDR Inc,9/9/2016,34.49
+UHS,Health Care,Universal Health Services; Inc.,9/9/2016,120.11
+ULTA,Consumer Discretionary,Ulta Salon Cosmetics & Fragrance Inc,9/9/2016,238.73
+UNH,Health Care,United Health Group Inc.,9/9/2016,133.62
+UNM,Financials,Unum Group,9/9/2016,35.25
+UNP,Industrials,Union Pacific,9/9/2016,92.72
+UPS,Industrials,United Parcel Service,9/9/2016,107.63
+URBN,Consumer Discretionary,Urban Outfitters,9/9/2016,36.08
+URI,Industrials,United Rentals; Inc.,9/9/2016,77.9
+USB,Financials,U.S. Bancorp,9/9/2016,43.41
+UTX,Industrials,United Technologies,9/9/2016,102.68
+V,Information Technology,Visa Inc.,9/9/2016,81.33
+VAR,Health Care,Varian Medical Systems,9/9/2016,93.63
+VFC,Consumer Discretionary,V.F. Corp.,9/9/2016,58.43
+VIAB,Consumer Discretionary,Viacom Inc.,9/9/2016,37.16
+VLO,Energy,Valero Energy,9/9/2016,54.92
+VMC,Materials,Vulcan Materials,9/9/2016,107.87
+VNO,Real Estate,Vornado Realty Trust,9/9/2016,99.45
+VRSK,Industrials,Verisk Analytics,9/9/2016,81.96
+VRSN,Information Technology,Verisign Inc.,9/9/2016,74.86
+VRTX,Health Care,Vertex Pharmaceuticals Inc,9/9/2016,93.68
+VTR,Real Estate,Ventas Inc,9/9/2016,68.86
+VZ,Telecommunications Services,Verizon Communications,9/9/2016,51.82
+WAT,Health Care,Waters Corporation,9/9/2016,151.13
+WBA,Consumer Staples,Walgreens Boots Alliance,9/9/2016,82.92
+WDC,Information Technology,Western Digital,9/9/2016,51.59
+WEC,Utilities,Wec Energy Group Inc,9/9/2016,59.09
+WFC,Financials,Wells Fargo,9/9/2016,48.72
+WFM,Consumer Staples,Whole Foods Market,9/9/2016,28.6
+WHR,Consumer Discretionary,Whirlpool Corp.,9/9/2016,166.72
+WLTW,Financials,Willis Towers Watson,9/9/2016,122.04
+WM,Industrials,Waste Management Inc.,9/9/2016,62.75
+WMB,Energy,Williams Cos.,9/9/2016,30.04
+WMT,Consumer Staples,Wal-Mart Stores,9/9/2016,70.3
+WRK,Materials,WestRock Company,9/9/2016,46.49
+WU,Information Technology,Western Union Co,9/9/2016,20.75
+WY,Real Estate,Weyerhaeuser Corp.,9/9/2016,30.31
+WYN,Consumer Discretionary,Wyndham Worldwide,9/9/2016,66.88
+WYNN,Consumer Discretionary,Wynn Resorts Ltd,9/9/2016,98.41
+XEC,Energy,Cimarex Energy,9/9/2016,130.61
+XEL,Utilities,Xcel Energy Inc,9/9/2016,40.78
+XL,Financials,XL Capital,9/9/2016,34.29
+XLNX,Information Technology,Xilinx Inc,9/9/2016,52.08
+XOM,Energy,Exxon Mobil Corp.,9/9/2016,86.84
+XRAY,Health Care,Dentsply Sirona,9/9/2016,59.03
+XRX,Information Technology,Xerox Corp.,9/9/2016,9.59
+XYL,Industrials,Xylem Inc.,9/9/2016,48.65
+YHOO,Information Technology,Yahoo Inc.,9/9/2016,42.92
+YUM,Consumer Discretionary,Yum! Brands Inc,9/9/2016,62.523365
+ZBH,Health Care,Zimmer Biomet Holdings,9/9/2016,125.29
+ZION,Financials,Zions Bancorp,9/9/2016,30.57
+ZTS,Health Care,Zoetis,9/9/2016,50.39
