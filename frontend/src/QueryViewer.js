@@ -10,6 +10,9 @@ export default function QueryViewer() {
   const [outputType, setOutputType] = useState(null);
   const [outputData, setOutputData] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [showImage, setShowImage] = useState(false);
+
+  const imageUrl = `http://localhost:8000/api/categories/${category}/visualization/${filename.replace('.txt', '.png')}`;
 
   useEffect(() => {
     axios
@@ -46,6 +49,7 @@ export default function QueryViewer() {
     <>
       <Navbar />
       <div className="max-w-6xl mx-auto px-4 py-8">
+        {/* Breadcrumb Navigation */}
         <nav className="text-sm text-gray-600 mb-6 space-x-1">
           <Link to="/" className="hover:underline text-blue-600">🏠 Home</Link>
           <span>/</span>
@@ -56,10 +60,12 @@ export default function QueryViewer() {
           <span className="text-black font-medium">{filename.replace(/_/g, ' ')}</span>
         </nav>
 
+        {/* Title */}
         <h1 className="text-2xl font-bold text-gray-800 mb-4 break-words">
           📄 {filename.replace(/_/g, ' ')}
         </h1>
 
+        {/* Hive Query */}
         <section className="mb-8">
           <h2 className="text-lg font-semibold mb-2">📘 Hive Query Script</h2>
           <pre className="bg-gray-100 text-sm text-gray-800 rounded-md p-4 overflow-x-auto whitespace-pre-wrap">
@@ -67,6 +73,32 @@ export default function QueryViewer() {
           </pre>
         </section>
 
+        {/* Visualization Toggle */}
+        <div className="text-center mb-6">
+          <button
+            onClick={() => setShowImage(!showImage)}
+            className="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 py-2 rounded-md transition"
+          >
+            👁 {showImage ? 'Hide' : 'View'} Visualization
+          </button>
+        </div>
+
+        {/* Visualization Image */}
+        {showImage && (
+          <div className="flex justify-center mb-8">
+            <img
+              src={imageUrl}
+              alt="Visualization"
+              className="max-w-full rounded shadow-md border"
+              onError={(e) => {
+                e.target.onerror = null;
+                e.target.src = 'https://via.placeholder.com/800x400?text=No+Image+Available';
+              }}
+            />
+          </div>
+        )}
+
+        {/* Output */}
         <section>
           <h2 className="text-lg font-semibold mb-2">📊 Output</h2>
           {loading && <p className="text-blue-500">⏳ Loading output...</p>}
